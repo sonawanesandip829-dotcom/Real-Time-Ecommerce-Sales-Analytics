@@ -62,7 +62,7 @@ Power BI is used to create an interactive dashboard with KPIs, filters, charts, 
 
 ## Dashboard
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Dashboard.png)
 
 ## Project Objective
 
